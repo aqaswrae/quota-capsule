@@ -6,8 +6,8 @@ Windows 托盘额度工具：桌面胶囊显示 Codex 5 小时剩余额度，点
 
 前往 [v0.8.3 下载页面](https://github.com/aqaswrae/quota-capsule/releases/tag/v0.8.3)，在 **Assets** 中选择一个文件：
 
-- `额度胶囊-安装程序-0.8.3.exe`：直接双击安装。
-- `额度胶囊-0.8.3-分享包.zip`：包含同一个安装程序和安装说明。解压后运行 EXE。
+- `QuotaCapsule-Setup-0.8.3.exe`：直接双击安装。
+- `QuotaCapsule-0.8.3.zip`：包含同一个安装程序和安装说明。解压后运行 EXE。
 
 两个文件不必都下载。适用系统为 **Windows x64**，需要 **.NET Framework 4.8**。安装时可选择当前用户有写入权限的目录，默认是 `%LOCALAPPDATA%\QuotaCapsule`。
 
